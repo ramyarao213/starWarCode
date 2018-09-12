@@ -1,0 +1,6 @@
+export const GET_CHAR_REQUEST = 'GET_CHAR_REQUEST'
+export const GET_CHARA_SUCCESS = 'GET_CHARA_SUCCESS'
+export const GET_CHAR_FAIL = 'GET_CHAR_FAIL'
+export const SET_CHAR = 'SET_CHAR'
+export const UPDATE_CHAR = 'UPDATE_CHAR'
+export const GET_HOME_REQUEST = 'GET_HOME_REQUEST'
